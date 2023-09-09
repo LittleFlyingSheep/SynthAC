@@ -1,6 +1,6 @@
 # SynthAC Demo
 
-This is the demo corresponding to the work of the paper "Synth-AC: Enhancing Audio Captioning with Synthetic Supervision".
+This is the demo corresponding to the paper "Synth-AC: Enhancing Audio Captioning with Synthetic Supervision".
 
 ## Demo of image captions and audio captions
 
