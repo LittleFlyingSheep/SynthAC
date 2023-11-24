@@ -17,6 +17,12 @@ We provide some examples of image captions and audio captions, to show the impli
 
 Moreover, there are some examples of the synthetic text-audio pairs provided in [synthetic_data](./synthetic_data/).  
 
+## Some insteresting examples
+
+We also provide some generated examples as below:
+- Examples to show that the visual description (e.g., the color "white/black" in "a white/black car") does not affect the content of synthetic audio, at [this path](./examples about 'a white or black car'/).
+- Examples of synthetic audio with the prompt "a ledge lined with Christmas lights".
+
 ## License
 
 This project is released under the CC BY-NC-ND 4.0 license.
